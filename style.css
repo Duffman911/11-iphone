@@ -1,0 +1,47 @@
+*{margin: 0;
+padding: 0;
+}
+body{
+    background-image:url(back.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+h1{
+    color: rgb(0, 0, 0);
+    text-align: center;
+    font-size: 40px;
+    margin: 20px 0;
+}
+.phone{
+    align-items: center;
+    text-align: center;
+}
+.phone img{
+    width: 100px;
+}
+p{
+    background:linear-gradient( rgb(118, 219, 245), rgba(2, 119, 253, 0.555));
+    border: 2px solid;
+    border-radius: 25px;
+    padding:25px;
+    margin: 30px;
+    text-align: center;
+    display:flex;
+    font-size: 18px;
+    
+}
+.yosh{
+    background:linear-gradient( rgb(118, 219, 245), rgba(10, 48, 92, 0.555));
+    border: 2px solid;
+    border-radius: 25px;
+    padding:25px;
+    margin: 30px;
+    text-align: center;
+    font-size: 18px; 
+}
+.yosh img{
+    width: 22px;
+}
+.btn{
+    margin: 10px;
+}
